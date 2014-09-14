@@ -3,7 +3,7 @@ var QMCONFIG = {
   
   // Local account
   qbAccount: {
-    appId: 12496,
+    appId: 14244,
     authKey: '9EUPhcggGDsVKeK',
     authSecret: 'tNnL6znOWMSzJnV'
   },
