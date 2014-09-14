@@ -4,8 +4,8 @@ var QMCONFIG = {
   // Local account
   qbAccount: {
     appId: 14244,
-    authKey: 'q2Fn-wuGeMfs7aL',
-    authSecret: 'DBSW75L7yeFFuNK'
+    authKey: '9EUPhcggGDsVKeK',
+    authSecret: 'tNnL6znOWMSzJnV'
   },
 
   // Local FB app
