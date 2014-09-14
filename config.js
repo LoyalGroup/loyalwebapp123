@@ -4,13 +4,13 @@ var QMCONFIG = {
   // Local account
   qbAccount: {
     appId: 14244,
-    authKey: '9EUPhcggGDsVKeK',
-    authSecret: 'tNnL6znOWMSzJnV'
+    authKey: 9EUPhcggGDsVKeK,
+    authSecret: tNnL6znOWMSzJnV
   },
 
   // Local FB app
   fbAccount: {
-    appId: '700943199994257',
+    appId: 700943199994257,
     scope: 'email,user_friends'
   },
 
