@@ -9,7 +9,7 @@ var QMCONFIG = {
   },
 
   // Local FB app
-  fbAccount:
+  fbAccount: {
     appId: 700943199994257,
     scope: 'email,user_friends'
   },
